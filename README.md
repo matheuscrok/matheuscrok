@@ -25,6 +25,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     
     
     
