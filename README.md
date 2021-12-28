@@ -1,8 +1,8 @@
 ## Bem vindo, ao meu github
 
 
-- 🔭 Hoje trabalho com full-stack
-- 🌱 Atualmente estou aprendendo Ruby on Rails
+- 🔭 Hoje trabalho como Desenvolvedor Full-Stack
+- 🌱 Atualmente estou aprendendo Ruby on Rails e PHP
 - 📫 Como entrar em contato comigo: (62)98160-5134 / matheusprogfut@outlook.com
 
 <div align="center">
@@ -20,5 +20,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg"> 
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> 
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"> 
+    
     
   </div>
