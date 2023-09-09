@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como Desenvolvedor Full-Stack
-- 🌱 Atualmente estou trabalhando com Java Springboot,Thymeleaf,JSF,Jasper IReports, JavaScript 
+- 🌱 Atualmente estou trabalhando com Java 17, Springboot 3,Thymeleaf,JSF,Jasper IReports, JavaScript , Angular 14
 - 📫 Como entrar em contato comigo: (62)98160-5134 / matheusprogfut@outlook.com
 
 <div align="center">
